@@ -1,0 +1,1 @@
+The command used was 'git pull <remote> <branch>. Pull merges changes automatically in that it does fetch and merge, while fetch pulls all related branches but does not merge and merge merges when called to merge :)
